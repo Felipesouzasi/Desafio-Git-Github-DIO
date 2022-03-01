@@ -1,6 +1,7 @@
 # Desafio-Git-Github-DIO
 Repositório criado para o Desafio de projetos da DIO. Ele abordará alguns conceitos básicos, algumas dicas e links úteis para pessoas que estão iniciando no Git/Github
 
+Entre na pasta "Materiais curso" para acessar o conteúdo do curso. Bom aprendizado!
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)\
